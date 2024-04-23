@@ -1,0 +1,42 @@
+.slideOne {
+  background-image: linear-gradient(
+      to right,
+      rgba(255, 255, 255, 0.7),
+      rgba(255, 255, 255, 0)
+    ),
+    url("https://images.pexels.com/photos/1281150/pexels-photo-1281150.jpeg?auto=compress&cs=tinysrgb&w=900");
+}
+.slideTwo {
+  background-image: linear-gradient(
+      to right,
+      rgba(255, 255, 255, 0.7),
+      rgba(255, 255, 255, 0)
+    ),
+    url("https://images.pexels.com/photos/1204275/pexels-photo-1204275.jpeg?auto=compress&cs=tinysrgb&w=900");
+}
+.slideThree {
+  background-image: linear-gradient(
+      to right,
+      rgba(255, 255, 255, 0.7),
+      rgba(255, 255, 255, 0)
+    ),
+    url("https://images.pexels.com/photos/5938245/pexels-photo-5938245.jpeg?auto=compress&cs=tinysrgb&w=900");
+}
+
+.slick-dots {
+  position: absolute;
+  bottom: 10px; /* Adjust this value to control the distance from the bottom */
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+.slick-dots li.slick-active button {
+  color: #194e8a !important;
+  font-size: large;
+  background-color: #194e8a;
+  border-radius: 50%;
+}

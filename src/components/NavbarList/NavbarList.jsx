@@ -1,7 +1,7 @@
 const NavbarList = () => {
   return (
     <div className=" py-4 bg-white">
-      <div className="max-w-6xl mx-auto  grid justify-center">
+      <div className="max-w-7xl mx-auto  grid justify-center">
         <ul className="flex gap-5 text-base text-primaryColor">
           <li>Brands</li>
           <li>Fashion</li>

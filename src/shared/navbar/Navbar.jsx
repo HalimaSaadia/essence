@@ -35,7 +35,7 @@ const Navbar = () => {
         <p className="text-primaryColor font-semibold">Your Source for Stylish & Functional Home Essentials</p>
       </div>
       <div className="bg-primaryColor py-4">
-        <div className="navbar max-w-6xl mx-auto">
+        <div className="navbar max-w-7xl mx-auto">
           <div className="navbar-start  md:w-max">
             <div className="flex items-center ">
               <img src={logo} alt="" className="h-10 w-10 mr-2" />
