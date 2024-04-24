@@ -1,4 +1,5 @@
 import "./App.css";
+import Categories from "./components/Categories/Categories";
 import Deals from "./components/Deals/Deals";
 import Department from "./components/Department/Department";
 import HeroSection from "./components/HeroSection/HeroSection";
@@ -18,6 +19,7 @@ function App() {
         <OnSell />
         <MegaOffer />
         <AppleProducts />
+        <Categories />
       </div>
     </div>
   );
