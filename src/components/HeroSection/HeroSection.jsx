@@ -7,17 +7,17 @@ const HeroSection = () => {
       <div className="grid grid-cols-12 gap-5">
         <div className="col-span-2 bg-white p-4">
           <ul>
-            <li className="py-2 cursor-pointer">All Categories</li>
-            <li className="py-2 cursor-pointer">Cart & Motorcycles</li>
-            <li className="py-2 cursor-pointer">Music & Books</li>
-            <li className="py-2 cursor-pointer">Art & Craft</li>
-            <li className="py-2 cursor-pointer">Home And Garden</li>
-            <li className="py-2 cursor-pointer">Moms And Babies</li>
-            <li className="py-2 cursor-pointer">Electronics</li>
-            <li className="py-2 cursor-pointer">Kids & Toys</li>
-            <li className="py-2 cursor-pointer">Clothing And Shoes</li>
-            <li className="py-2 cursor-pointer">Beauty And Health</li>
-            <li className="py-2 cursor-pointer">Sports</li>
+            <li className="py-3 cursor-pointer">All Categories</li>
+            <li className="py-3 cursor-pointer">Cart & Motorcycles</li>
+            <li className="py-3 cursor-pointer">Music & Books</li>
+            <li className="py-3 cursor-pointer">Art & Craft</li>
+            <li className="py-3 cursor-pointer">Home And Garden</li>
+            <li className="py-3 cursor-pointer">Moms And Babies</li>
+            <li className="py-3 cursor-pointer">Electronics</li>
+            <li className="py-3 cursor-pointer">Kids & Toys</li>
+            <li className="py-3 cursor-pointer">Clothing And Shoes</li>
+            <li className="py-3 cursor-pointer">Beauty And Health</li>
+            <li className="py-3 cursor-pointer">Sports</li>
           </ul>
         </div>
         <div className="col-span-7">
