@@ -12,7 +12,7 @@ const OnSell = () => {
   return (
     <div className="py-20">
         <SectionHeading text="On Selling Products"/>
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-9 mt-5">
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-9 mt-10">
         {products?.map((product) => (
           <div
             key={product?.id}

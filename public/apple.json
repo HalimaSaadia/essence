@@ -1,0 +1,33 @@
+[
+    {
+      "id": 10,
+      "name": "iPhone 13 Pro",
+      "image": "https://images.pexels.com/photos/15458049/pexels-photo-15458049/free-photo-of-iphone-13-in-close-up-shot.png?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 11,
+      "name": "iPad Air (5th Gen)",
+      "image": "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 12,
+      "name": "MacBook Pro 14-inch",
+      "image": "https://images.pexels.com/photos/159886/pexels-photo-159886.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 13,
+      "name": "Apple Watch Series 7",
+      "image": "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 14,
+      "name": "AirPods Pro",
+      "image": "https://images.pexels.com/photos/1646704/pexels-photo-1646704.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 15,
+      "name": "Mac mini",
+      "image": "https://images.pexels.com/photos/389819/pexels-photo-389819.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+  ]
+  
