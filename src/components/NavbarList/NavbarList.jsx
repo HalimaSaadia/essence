@@ -1,8 +1,8 @@
 const NavbarList = () => {
   return (
     <div className=" py-4 bg-white">
-      <div className="max-w-7xl mx-auto  grid justify-center">
-        <ul className="flex gap-5 text-base text-primaryColor">
+      <div className="max-w-7xl mx-auto  grid justify-center marker:">
+        <ul className="flex gap-5 text-base text-primaryColor overflow-x-scroll lg:overflow-x-clip">
           <li>Brands</li>
           <li>Fashion</li>
           <li>Art & Culture</li>

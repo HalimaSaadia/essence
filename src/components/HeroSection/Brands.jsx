@@ -22,9 +22,9 @@ const Brands = () => {
           {
             breakpoint: 600,
             settings: {
-              slidesToShow: 4,
-              slidesToScroll: 4,
-              initialSlide: 4
+              slidesToShow: 6,
+              slidesToScroll: 6,
+              initialSlide: 6
             }
           },
           {

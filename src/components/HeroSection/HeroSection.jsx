@@ -1,11 +1,12 @@
 import ButtonPrimary from "../../shared/ButtonPrimary/ButtonPrimary";
 import Carousel from "./Carousel";
+import { BsPatchCheckFill } from "react-icons/bs";
 
 const HeroSection = () => {
   return (
     <div className="my-4">
       <div className="grid grid-cols-12 gap-5">
-        <div className="col-span-2 bg-white p-4">
+        <div className="col-span-12 md:col-span-4 lg:col-span-2 bg-white p-4 lg:order-first">
           <ul>
             <li className="py-3 cursor-pointer">All Categories</li>
             <li className="py-3 cursor-pointer">Cart & Motorcycles</li>
@@ -20,10 +21,10 @@ const HeroSection = () => {
             <li className="py-3 cursor-pointer">Sports</li>
           </ul>
         </div>
-        <div className="col-span-7">
+        <div className="lg:col-span-7 col-span-12 md:col-span-12 order-first ">
           <Carousel />
         </div>{" "}
-        <div className="col-span-3 bg-white p-5">
+        <div className="col-span-12 lg:col-span-3 md:col-span-8 bg-white p-5">
           <div className="logo-font">
             <p>Good Afternoon, Halima</p>
             <div className="text-center my-3">
@@ -54,6 +55,38 @@ const HeroSection = () => {
             <ButtonPrimary width="full" text="Buy Now" />
           </div>
         </div>
+      </div>
+
+      <div className="py-5 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+        <div className="bg-white px-3 py-3 flex items-center gap-5">
+          <BsPatchCheckFill style={{color:"#F6B100"}} className="text-2xl"/>
+          <div>
+            <p className="font-bold">Quick & Easy Store Pickup</p>
+            <p className="textNeutral font-semibold">Get your order as little as 1hr</p>
+          </div>
+        </div>
+        <div className="bg-white px-3 py-3 flex items-center gap-5">
+          <BsPatchCheckFill style={{color:"#F6B100"}} className="text-2xl"/>
+          <div>
+            <p className="font-bold">Low Price Guarantee</p>
+            <p className="textNeutral font-semibold">We won’t be beat on price</p>
+          </div>
+        </div>
+        <div className="bg-white px-3 py-3 flex items-center gap-5">
+          <BsPatchCheckFill style={{color:"#F6B100"}} className="text-2xl"/>
+          <div>
+            <p className="font-bold">Lates & Greatest Tech</p>
+            <p className="textNeutral font-semibold">Discover whats new & excitings</p>
+          </div>
+        </div>
+        <div className="bg-white px-3 py-3 flex items-center gap-5">
+          <BsPatchCheckFill style={{color:"#F6B100"}} className="text-2xl"/>
+          <div>
+            <p className="font-bold">Knowledgeable Advice</p>
+            <p className="textNeutral font-semibold">Answer to your tech questions</p>
+          </div>
+        </div>
+       
       </div>
     </div>
   );
