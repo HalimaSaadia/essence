@@ -20,3 +20,9 @@
     border-radius: 50%;
     background-color: #dbdbdb;
   }
+  .slick-prev:hover{
+    background-color: #dbdbdb;
+  }
+  .slick-next:hover{
+    background-color: #dbdbdb;
+  }

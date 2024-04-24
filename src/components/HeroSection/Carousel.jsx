@@ -25,8 +25,8 @@ const Carousel = () => {
                 <h2 className="md:w-[45%] text-7xl text-primaryColor font-semibold ">
                   Kitchen savings
                 </h2>
-                <div className="md:w-[45%]">
-                  <ButtonPrimary text="Buy Now (50% off)" />
+                <div className="">
+                <button className={`bg-primaryColor  font-semibold text-white py-4 px-8 rounded mt-7 `}>Buy Now (50% off)</button>
                 </div>
               </div>
             </div>
@@ -34,11 +34,11 @@ const Carousel = () => {
           <div className="slideTwo h-96 bg-no-repeat bg-center ">
             <div className=" h-full flex items-center">
               <div className="pl-5">
-                <h2 className="md:w-[50%] text-7xl text-primaryColor font-semibold ">
+                <h2 className=" text-7xl text-primaryColor font-semibold ">
                   Stay Healthy
                 </h2>
-                <div className="md:w-[50%]">
-                  <ButtonPrimary text="Buy Now (50% off)" />
+                <div className="">
+                <button className={`bg-primaryColor  font-semibold text-white py-4 px-8 rounded mt-7 `}>Buy Now (50% off)</button>
                 </div>
               </div>
             </div>
@@ -50,7 +50,7 @@ const Carousel = () => {
                   Skincare savings
                 </h2>
                 <div className="md:w-[45%]">
-                  <ButtonPrimary text="Buy Now (50% off)" />
+                <button className={`bg-primaryColor  font-semibold text-white py-4 px-8 rounded mt-7 `}>Buy Now (50% off)</button>
                 </div>
               </div>
             </div>

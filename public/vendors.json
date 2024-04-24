@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "brand": "Next",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJbAw1CmQ-2hci4lEteie3M6RfDd_7670ZydsJTaPHSQ&s",
+    "available": 25,
+    "review": 120,
+    "image1": "https://4.imimg.com/data4/TN/IP/MY-4249368/steel-rods-500x500.jpg",
+    "image2": "https://tiimg.tistatic.com/fp/1/008/324/bs-standard-550-grade-powder-coated-surface-steel-rods--502.jpg",
+    "image3": "https://5.imimg.com/data5/MY/IV/JZ/SELLER-22042345/round-iron-rod-500x500.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Keurig",
+    "logo": "https://play-lh.googleusercontent.com/1OykIvrw9xmVrRDgV0K6OozBu1swDGf6NfQkNjEwYwgtta1SWHryUursYn7nvLCfXeY",
+    "available": 40,
+    "review": 200,
+    "image1": "https://giftall.s3.amazonaws.com/uploads/images/product/product_1585204267.jpg",
+    "image2": "https://www.jiomart.com/images/product/original/rvuuqqzrfx/dulhan-premium-extra-long-grain-basmati-rice-basmati-chawal-for-everyday-consumption-pack-of-5-1kg-product-images-orvuuqqzrfx-p605157195-0-202309292037.png?im=Resize=(1000,1000)",
+    "image3": "https://img1.exportersindia.com/product_images/bc-full/2023/9/7049281/shahi-dulhan-kolam-raw-rice-1693208132-7053086.jpeg"
+  },
+  {
+    "id": 3,
+    "brand": "Swiffer",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_bK21qEkwNF0x8oH9Xh7iOP_1FcsLZ9Wks4m0JB8M_Q&s",
+    "available": 30,
+    "review": 150,
+    "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhjxfqzPcmRwdxEt_QPhpiWMw_5XLl1iPjw9CcArOVQ&s",
+    "image2": "https://eateryjapan.com/wp-content/uploads/2020/02/c06e7a3a46d0064da3c5e13f45634a0c-1.jpg",
+    "image3": "https://loveonetoday.com/wp-content/uploads/love-one-today-avocado-fruit-or-vegetable.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Dyson",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMFmOai3fuCZZH87uwKNvg08MnrWKD0VUfJlf4kUe4hw&s",
+    "available": 15,
+    "review": 180,
+    "image1": "https://mobileimages.lowes.com/productimages/fea229e3-d0e8-4765-b8db-a9646c4224ec/08569528.jpg",
+    "image2": "https://goldcoastplumbingcompany.com.au/wp-content/uploads/2022/08/modern-bathroom-sink-with-marble-benchtop.jpg",
+    "image3": "https://ae01.alicdn.com/kf/HTB1o5xOUNjaK1RjSZKzq6xVwXXad.jpg_640x640q90.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Breville",
+    "logo": "https://play-lh.googleusercontent.com/6PwGC6EJ52-b57VgfItw0FDztgP9eYT9oIbMjT8nUAY8Tles6AuH1lNvijoM9wEadrg=w240-h480-rw",
+    "available": 20,
+    "review": 220,
+    "image1": "https://assets.bldnxt.in/catalog/product/b/i/birla002.png",
+    "image2": "https://5.imimg.com/data5/SELLER/Default/2023/6/312600678/XP/IE/JV/53454816/birla-gold-50kg-premium-cement.png",
+    "image3": "https://5.imimg.com/data5/SELLER/Default/2023/5/309262570/FO/ME/MK/3800272/50-kg-birla-shakti-cement-500x500.jpg"
+  }
+]

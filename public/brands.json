@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "brand": "Next",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJbAw1CmQ-2hci4lEteie3M6RfDd_7670ZydsJTaPHSQ&s"
+  },
+  {
+    "id": 2,
+    "brand": "Keurig",
+    "image": "https://play-lh.googleusercontent.com/1OykIvrw9xmVrRDgV0K6OozBu1swDGf6NfQkNjEwYwgtta1SWHryUursYn7nvLCfXeY"
+  },
+  {
+    "id": 3,
+    "brand": "Swiffer",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_bK21qEkwNF0x8oH9Xh7iOP_1FcsLZ9Wks4m0JB8M_Q&s"
+  },
+  {
+    "id": 4,
+    "brand": "Dyson",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMFmOai3fuCZZH87uwKNvg08MnrWKD0VUfJlf4kUe4hw&s"
+  },
+  {
+    "id": 5,
+    "brand": "Breville",
+    "image": "https://play-lh.googleusercontent.com/6PwGC6EJ52-b57VgfItw0FDztgP9eYT9oIbMjT8nUAY8Tles6AuH1lNvijoM9wEadrg=w240-h480-rw"
+  },
+  {
+    "id": 6,
+    "brand": "Cuisinart",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rdinrTY-ceG8nDG93xy7xi8ngHS_Bqp8KxjuMei0GA&s"
+  },
+  {
+    "id": 7,
+    "brand": "Yankee",
+    "image": "https://www.shutterstock.com/image-vector/new-york-usa-february-vector-260nw-2311629011.jpg"
+  },
+  {
+    "id": 7,
+    "brand": "Nespresso",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd4juGkARElj--T2RDncUpNeDfGWuJ1-0yDGsOgWUZaA&s"
+  },
+  {
+    "id": 8,
+    "brand": "KitchenAid",
+    "image": "https://mir-s3-cdn-cf.behance.net/projects/404/bf8263139477583.Y3JvcCwxOTIwLDE1MDEsMCww.png"
+  },
+  {
+    "id": 9,
+    "brand": "Hamilton",
+    "image": "https://logos-world.net/wp-content/uploads/2021/08/Hamilton-Symbol.jpg"
+  },
+  {
+    "id": 10,
+    "brand": "Instant Pot",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwnNcOVpH0elfGZ-_YVun2XKKdYZhCAsCK5f-4L5JlQ&s"
+  },
+  {
+    "id": 11,
+    "brand": "Nutribullet",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsA6ciH4t8hNrqB_k6EhyXq-rdV03qRwj0W99JXbEsfA&s"
+  },
+  {
+    "id": 12,
+    "brand": "Pyrex",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRHVyVupt1s_DDrTdDGmeVzk-Ms-TK1F6GXeJvetMJYw&s"
+  },
+  {
+    "id": 13,
+    "brand": "Oster",
+    "image": "https://cdn.dribbble.com/users/2097701/screenshots/11555685/media/9e079526ec32d39de2a8cc1a55365dfd.png?resize=400x0"
+  },
+  {
+    "id": 14,
+    "brand": "Vitamix",
+    "image": "https://logopond.com/logos/18ea5585a092d188afceff5312b6f911.png"
+  },
+  {
+    "id": 15,
+    "brand": "Black+Decker",
+    "image": "https://i.insider.com/52d429036da811ea1dc79b4b?width=1136&format=jpeg"
+  },
+  {
+    "id": 16,
+    "brand": "Sunbeam",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCPqqLnKG6MLmjdusOkljotWmujPLOwWr6HW-QzyZ3HQ&s"
+  },
+  {
+    "id": 17,
+    "brand": "Nutribullet",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsA6ciH4t8hNrqB_k6EhyXq-rdV03qRwj0W99JXbEsfA&s"
+  },
+  {
+    "id": 18,
+    "brand": "Pyrex",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRHVyVupt1s_DDrTdDGmeVzk-Ms-TK1F6GXeJvetMJYw&s"
+  },
+  {
+    "id": 19,
+    "brand": "Oster",
+    "image": "https://cdn.dribbble.com/users/2097701/screenshots/11555685/media/9e079526ec32d39de2a8cc1a55365dfd.png?resize=400x0"
+  },
+  {
+    "id": 20,
+    "brand": "Vitamix",
+    "image": "https://logopond.com/logos/18ea5585a092d188afceff5312b6f911.png"
+  }
+ 
+]
