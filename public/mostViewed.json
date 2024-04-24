@@ -1,0 +1,165 @@
+[
+    {
+      "key": "1",
+      "image": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Smartphone X",
+      "review": 245,
+      "offerPrice": 499.99,
+      "originalPrice": 599.99,
+      "discount": 17
+    },
+    {
+      "key": "2",
+      "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Wireless Earbuds Y",
+      "review": 138,
+      "offerPrice": 89.99,
+      "originalPrice": 129.99,
+      "discount": 31
+    },
+    {
+      "key": "3",
+      "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Smart Watch Z",
+      "review": 187,
+      "offerPrice": 149.99,
+      "originalPrice": 199.99,
+      "discount": 25
+    },
+    {
+      "key": "4",
+      "image": "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Tablet A",
+      "review": 312,
+      "offerPrice": 299.99,
+      "originalPrice": 349.99,
+      "discount": 14
+    },
+    {
+      "key": "5",
+      "image": "https://images.pexels.com/photos/249597/pexels-photo-249597.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Camera B",
+      "review": 205,
+      "offerPrice": 449.99,
+      "originalPrice": 499.99,
+      "discount": 10
+    },
+    {
+      "key": "6",
+      "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Ladies Bag",
+      "review": 167,
+      "offerPrice": 379.99,
+      "originalPrice": 429.99,
+      "discount": 12
+    },
+    {
+      "key": "7",
+      "image": "https://images.pexels.com/photos/159886/pexels-photo-159886.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Laptop D",
+      "review": 189,
+      "offerPrice": 899.99,
+      "originalPrice": 999.99,
+      "discount": 10
+    },
+    {
+      "key": "8",
+      "image": "https://images.pexels.com/photos/2046807/pexels-photo-2046807.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Headphones E",
+      "review": 125,
+      "offerPrice": 129.99,
+      "originalPrice": 149.99,
+      "discount": 13
+    },
+    {
+      "key": "9",
+      "image": "https://images.pexels.com/photos/4426515/pexels-photo-4426515.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Fitness Tracker F",
+      "review": 215,
+      "offerPrice": 79.99,
+      "originalPrice": 99.99,
+      "discount": 20
+    },
+    {
+      "key": "10",
+      "image": "https://images.pexels.com/photos/1022922/pexels-photo-1022922.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Plant",
+      "review": 143,
+      "offerPrice": 299.99,
+      "originalPrice": 349.99,
+      "discount": 14
+    },
+    {
+      "key": "11",
+      "image": "https://images.pexels.com/photos/6153880/pexels-photo-6153880.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Jeweler",
+      "review": 182,
+      "offerPrice": 59.99,
+      "originalPrice": 79.99,
+      "discount": 25
+    },
+    {
+      "key": "12",
+      "image": "https://images.pexels.com/photos/117729/pexels-photo-117729.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "External Hard Drive I",
+      "review": 175,
+      "offerPrice": 79.99,
+      "originalPrice": 99.99,
+      "discount": 20
+    },
+    {
+        "key": "13",
+        "image": "https://images.pexels.com/photos/4426515/pexels-photo-4426515.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Fitness Tracker F",
+        "review": 215,
+        "offerPrice": 79.99,
+        "originalPrice": 99.99,
+        "discount": 20
+      },
+      {
+        "key": "14",
+        "image": "https://images.pexels.com/photos/1022922/pexels-photo-1022922.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Plant",
+        "review": 143,
+        "offerPrice": 299.99,
+        "originalPrice": 349.99,
+        "discount": 14
+      },
+      {
+        "key": "15",
+        "image": "https://images.pexels.com/photos/6153880/pexels-photo-6153880.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Jeweler",
+        "review": 182,
+        "offerPrice": 59.99,
+        "originalPrice": 79.99,
+        "discount": 25
+      },
+    {
+      "key": "16",
+      "image": "https://images.pexels.com/photos/1022922/pexels-photo-1022922.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Bluetooth Keyboard L",
+      "review": 132,
+      "offerPrice": 49.99,
+      "originalPrice": 59.99,
+      "discount": 16
+    },
+    {
+        "key": "17",
+        "image": "https://images.pexels.com/photos/4426515/pexels-photo-4426515.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Fitness Tracker F",
+        "review": 215,
+        "offerPrice": 79.99,
+        "originalPrice": 99.99,
+        "discount": 20
+      },
+      {
+        "key": "18",
+        "image": "https://images.pexels.com/photos/1022922/pexels-photo-1022922.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Plant",
+        "review": 143,
+        "offerPrice": 299.99,
+        "originalPrice": 349.99,
+        "discount": 14
+      }
+  
+]  

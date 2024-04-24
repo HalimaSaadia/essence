@@ -4,6 +4,7 @@ import Deals from "./components/Deals/Deals";
 import Department from "./components/Department/Department";
 import HeroSection from "./components/HeroSection/HeroSection";
 import MegaOffer from "./components/MegaOffer/MegaOffer";
+import MostViewed from "./components/MostViewd/MostViewed";
 import OnSell from "./components/OnSell/OnSell";
 import AppleProducts from "./components/appleProducts/AppleProducts";
 import Navbar from "./shared/navbar/Navbar";
@@ -20,6 +21,7 @@ function App() {
         <MegaOffer />
         <AppleProducts />
         <Categories />
+        <MostViewed />
       </div>
     </div>
   );
