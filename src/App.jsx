@@ -2,6 +2,7 @@ import "./App.css";
 import Deals from "./components/Deals/Deals";
 import Department from "./components/Department/Department";
 import HeroSection from "./components/HeroSection/HeroSection";
+import OnSell from "./components/OnSell/OnSell";
 import Navbar from "./shared/navbar/Navbar";
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
         <HeroSection />
         <Department />
         <Deals />
+        <OnSell />
       </div>
     </div>
   );

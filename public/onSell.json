@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "image": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Smartphone X",
+      "description": "Powerful and sleek design",
+      "offerPrice": 499,
+      "originalPrice": 599,
+      "discount": 17
+    },
+    {
+      "id": 2,
+      "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Wireless Earbuds",
+      "description": "Crystal-clear sound quality",
+      "offerPrice": 79,
+      "originalPrice": 99,
+      "discount": 20
+    },
+    {
+      "id": 3,
+      "image": "https://images.pexels.com/photos/4426515/pexels-photo-4426515.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Fitness Tracker Pro",
+      "description": "Track your health goals",
+      "offerPrice": 129,
+      "originalPrice": 149,
+      "discount": 13
+    },
+    {
+      "id": 4,
+      "image": "https://images.pexels.com/photos/66134/pexels-photo-66134.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "HD Action Camera",
+      "description": "Capture life's adventures",
+      "offerPrice": 199,
+      "originalPrice": 249,
+      "discount": 20
+    },
+    {
+      "id": 5,
+      "image": "https://images.pexels.com/photos/2651794/pexels-photo-2651794.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Smart Speaker",
+      "description": "Voice-controlled home assistant",
+      "offerPrice": 89,
+      "originalPrice": 109,
+      "discount": 18
+    },
+    {
+      "id": 6,
+      "image": "https://images.pexels.com/photos/16814788/pexels-photo-16814788/free-photo-of-man-charging-cellphone-with-powerbank.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Portable Power Bank",
+      "description": "Charge your devices on the go",
+      "offerPrice": 39,
+      "originalPrice": 49,
+      "discount": 20
+    },
+    {
+      "id": 7,
+      "image": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Gaming Mouse",
+      "description": "Precision for gamers",
+      "offerPrice": 49,
+      "originalPrice": 59,
+      "discount": 17
+    },
+    {
+      "id": 8,
+      "image": "https://images.pexels.com/photos/1682821/pexels-photo-1682821.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Smartwatch Series Z",
+      "description": "Stay connected and fit",
+      "offerPrice": 179,
+      "originalPrice": 199,
+      "discount": 10
+    },
+    {
+      "id": 9,
+      "image": "https://images.pexels.com/photos/585752/pexels-photo-585752.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Bluetooth Keyboard",
+      "description": "Effortless typing experience",
+      "offerPrice": 59,
+      "originalPrice": 79,
+      "discount": 25
+    }
+  ]
+  
